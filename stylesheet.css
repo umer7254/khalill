@@ -1,0 +1,9 @@
+h1{color: rgb(170, 42, 2); background-color: rgba(131, 231, 248, 0.808);
+border:5px solid rgb(152, 159, 13);}
+.padding{padding: 10px;}
+.fount{font-family: Algerian;}
+.BGROUND{background-color: rgba(238, 195, 195, 0.918);color: rgb(16, 12, 96);padding: 10px;}
+.INLINE{padding: 9PX; background-color: rgb(215, 172, 116); : 40PX;}
+.red{color: rgb(219, 7, 7);font-size:30px;border: black solid;padding: 5px;}
+.LINK{background-color: brown;color: blue;padding: 12PX;}
+a:hover,a:active{background-color: green;}
